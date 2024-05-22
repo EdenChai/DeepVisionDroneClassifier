@@ -51,8 +51,8 @@ Post-training, the model was evaluated on a separate test set to verify its accu
 
 ## Usage
 Ensure you have Python installed and then install the required dependencies:
-```bash
-   pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
      
 ## Installation
@@ -67,4 +67,4 @@ pip install -r requirements.txt
 Contributions to the **DeepVisionDroneClassifier** are welcome! Please refer to the contributing guidelines before making a pull request.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
