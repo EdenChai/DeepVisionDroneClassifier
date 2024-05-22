@@ -122,5 +122,5 @@ evaluateModel(model, test_generator)
 tflite_model = convertModel(model)
 
 # 6. Save Model
-saveModel(tflite_model, 'model_v3.tflite')
+saveModel(tflite_model, 'model.tflite')
 
